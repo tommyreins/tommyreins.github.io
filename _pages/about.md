@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: bio
 permalink: /
 subtitle: Welcome to my website. Here you'll find content that woudn't fit on GitHub, LinkedIn, or Twitter. 
 

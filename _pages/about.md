@@ -29,4 +29,6 @@ Summer after graduation, I moved to Seattle, WA to work at `Microsoft`. Spent fo
 
 The urge to `chase my dream` of starting another venture hit me hard. After four years at Microsoft - I quit and moved back to the Midwest to do it. Over the summer, I bicycled across Iowa for `RAGBRAI 49`, and this fall, I ran my first `half marathon` in Des Moines.
 
-In 2023, I'm excited to `launch our first product` from the venture and serve manufacturers in the Midwest! `More to be revealed soon.`
+In 2023, I'm excited to `launch our first product` from the venture and serve manufacturers in the Midwest!
+
+`More to be revealed soon.`

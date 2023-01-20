@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Entrepreneur with experience managing complex products at scale and a BS in Computer Engineering.
+subtitle: Welcome to my website. Here you'll find content that woudn't fit on GitHub, LinkedIn, or Twitter. 
 
 profile:
   align: left
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Based in</p>
+    <p>currently based out of</p>
     <p>Bettendorf, Iowa</p>
 
 news: false  # includes a list of news items
@@ -18,8 +18,15 @@ news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### bio
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Raised in Littlton, CO -- halfway between the city of Denver and the massive Rocky Mountains. Grew up hiking, biking, backpacking, and playing tennis. Was fortunate enough to attend a Jesuit high school, where I devoured many extra-curriculars instead of my homework.
+
+Studied Computer Engineering at Iowa State University in Ames, IA. Got clean in 2016, age 21. Shortly after, got my first A in *CS 311 Algorithms* and tutored it for 3 semesters. Started a research project that built robotic drone refueling stations, and then attempted to turn it into a company. After that adventure + several internships, I graduated in 2018 with a big job offer.
+
+Summer after graduation, I moved to Seattle, WA to work at Microsoft. Spent four years working as a Program Manager across many epic teams and products including O365, Exchange: Build + Infra, Substrate, RS5, WS2019, WS2022, and Azure Container Platform + Runtime. I was lucky to find some great mentors, great friends, and survive a pandemic. Being in WA, I also got to rekindle my love of the outdoors. I bought a truck that took me to a ton of hikes, backpacking trips, off-grid campouts, and roadtrips.
+
+The urge to chase my dreams and go start another venture hit me after four years at Microsoft. In 2022, I quit and moved back to the Midwest to do it. Over the summer I did RAGBRAI 49. Last fall I completed my first half marathon in Des Moines.
+
+In 2023, I'm excited to launch our first product from the venture and serve manufacturers in the Midwest! More to be revealed soon.

@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### bio
 
-`Raised in Littlton, CO` -- halfway between the city of Denver and the massive Rocky Mountains. `Grew up hiking, biking, backpacking, and playing tennis.` Was fortunate enough to attend a `Jesuit high school`, where I devoured many extra-curriculars instead of my homework.
+`Raised in Littleton, CO` -- halfway between the city of Denver and the massive Rocky Mountains. `Grew up hiking, biking, backpacking, and playing tennis.` Was fortunate enough to attend a `Jesuit high school`, where I devoured many extra-curriculars instead of my homework.
 
 Studied `Computer Engineering at Iowa State University` in Ames, IA. Got clean in 2016, age 21. Shortly after, `my first A was in CS 311 Algorithms` and I tutored it for 3 semesters. Started a research project that built `robotic drone refueling stations`, and then attempted to turn it into a company. After that adventure + several internships, I `graduated in 2018` with a big job offer.
 

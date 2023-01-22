@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### 2023
 
-I'm ready to launch our MVP! *More to be revealed soon.*
+🚀 Launching an MVP. *More to be revealed soon.*
 
 Also, very excited to post some [poems](/poems/) and my [guide to résumé perfection](https://novoresume.com/career-blog/how-to-spell-resume).
 

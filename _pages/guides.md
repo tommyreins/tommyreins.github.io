@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /guides/
+title: guides
 description: Under Construction
 nav: true
 nav_order: 5

@@ -2,14 +2,14 @@
 layout: about
 title: bio
 permalink: /
-subtitle: Welcome to my website. All glory to my HP. Here you'll find content that woudn't fit on GitHub, LinkedIn, or Twitter. 
+subtitle: Welcome to my website. All glory to my HP. Here you'll find content that wouldn't fit on GitHub, LinkedIn, or Twitter. 
 
 profile:
   align: left
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>currently based out of</p>
+    <p>Currently based out of</p>
     <p>Bettendorf, IA</p>
 
 news: false  # includes a list of news items

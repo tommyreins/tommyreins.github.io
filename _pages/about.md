@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 ### 2023
 
-This year, I'm excited to serve manufacturers in the Midwest! More to be revealed soon.
+I'm ready to launch our MVP! *More to be revealed soon.*
 
-Also excited to post some [poems](/poems/) and my [guide to résumé perfection](https://novoresume.com/career-blog/how-to-spell-resume)
+Also, very excited to post some [poems](/poems/) and my [guide to résumé perfection](https://novoresume.com/career-blog/how-to-spell-resume).
 
 ---
 
@@ -35,5 +35,4 @@ Studied `Computer Engineering at Iowa State University` in Ames, IA. Got clean i
 
 Summer after graduation, I moved to Seattle, WA to work at `Microsoft`. Spent four years working as a Program Manager across many epic teams and products including `Exchange: Build + Infra`, `Substrate`, `Azure Kubernetes`, and `Azure Container Platform`. I was lucky to find some great mentors, great friends, and survive a pandemic. Made memories hiking, backpacking, and off-grid camping.
 
-I needed to `chase dreams` of starting another venture, so after four years at Microsoft - I quit and moved back to the Midwest to do it. While building an MVP, I kept myself active. Over the summer, I bicycled across Iowa for `RAGBRAI 49`, and this fall, I ran my first `half marathon` in Des Moines.
-
+In 2022, the timing was perfect to `chase dreams` of starting another venture. So, after four years at Microsoft, I quit and moved back to the Midwest to do it. While building an MVP, I kept myself active. Over the summer, I bicycled across Iowa for `RAGBRAI 49`, and this fall, I ran my first `half marathon` in Des Moines.

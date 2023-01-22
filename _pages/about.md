@@ -19,6 +19,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
+### 2023
+
+This year, I'm excited to serve manufacturers in the Midwest! More to be revealed soon.
+
+Also excited to post some [poems](/poems/) and my [guide to résumé perfection](https://novoresume.com/career-blog/how-to-spell-resume)
+
+---
+
 ### bio
 
 `Raised in Littleton, CO` -- halfway between the city of Denver and the massive Rocky Mountains. `Grew up hiking, biking, backpacking, and playing tennis.` Was fortunate enough to attend a `Jesuit high school`, where I devoured many extra-curriculars instead of my homework.
@@ -29,8 +37,3 @@ Summer after graduation, I moved to Seattle, WA to work at `Microsoft`. Spent fo
 
 I needed to `chase dreams` of starting another venture, so after four years at Microsoft - I quit and moved back to the Midwest to do it. While building an MVP, I kept myself active. Over the summer, I bicycled across Iowa for `RAGBRAI 49`, and this fall, I ran my first `half marathon` in Des Moines.
 
-### 2023 status
-
-This year, I'm excited to `launch our first product` and serve manufacturers in the Midwest! More to be revealed soon.
-
-I'm also excited to use this website to post some `poems` and my [guide to résumé perfection](https://novoresume.com/career-blog/how-to-spell-resume)

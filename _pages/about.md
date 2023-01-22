@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 🚀 Launching an MVP. *More to be revealed soon.*
 
-Also, very excited to post some [poems](/poems/) and my [guide to résumé perfection](https://novoresume.com/career-blog/how-to-spell-resume).
+Also, very excited to post some [poems](/poems/) and `my guide to résumé perfection.`
 
 ---
 

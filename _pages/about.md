@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### 2023
 
-🚀 Founded [Expedition Nimrod](https://expeditionnimrod.com) to deliver modern software tools to manufacturers. Check out our MVP: **PeakPro**!
+🚀 Launched [Expedition Nimrod](https://expeditionnimrod.com) to deliver modern software tools to manufacturers. Check out our MVP: **PeakPro**!
 
 ✍ Writing [poems](/poems/) and a guide to résumé perfection.
 

@@ -8,7 +8,7 @@ importance: 1
 
 ## Does it Work?
 
-Despite having a 2.66 GPA, no connections, not coming from a top ten engineering school, and no brand name internships, my resume landed me an interview with Microsoft. I ended up surviving the interview loops and was hired as a Program Manager upon graduating in the spring of 2018 with a degree ain computer engineering from Iowa State University. 
+Despite having a 2.66 GPA, no connections, not coming from a top ten engineering school, and no brand name internships, my resume landed me an interview with Microsoft. I ended up surviving the interview loops and was hired as a Program Manager upon graduating in the spring of 2018 with a degree in computer engineering from Iowa State University. 
 
 Weeks spent writing, editing, reading, re-writing, re-reading, and polishing my resume - ended up paying off. All that work, just to hand it off to a Microsoft recruiter at the Iowa State career fair, was worth it. Getting hired by Microsoft after a less than stellar academic career and coming from a Midwest state school with a generous admissions rate felt like a dream. It was like getting drafted by the New York Yankees. That resume was really my only ticket to the big league. 
 

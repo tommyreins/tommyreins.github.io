@@ -19,7 +19,7 @@ Since getting hired, I have edited dozens of resumes, I reviewed resumes of cand
 - Interested in learning about resume writing methods. 
 - Writing a resume.
 - Hiring and reviewing resumes of job candidates.
--Job hunting.
+- Job hunting.
 - Using a resume that isn’t working!
 - Convinced you know how to write a resume.
 - All of the above.

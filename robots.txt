@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tommyreins.github.io/sitemap.xml
+Sitemap: https://www.tommyreins.com/sitemap.xml

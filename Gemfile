@@ -20,11 +20,13 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'jekyll-toc'
 
 end
 group :other_plugins do
+    gem 'benchmark'
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    gem 'observer'
+    gem 'ostruct'
 end

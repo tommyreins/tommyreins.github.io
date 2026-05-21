@@ -10,3 +10,5 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    # Use the repo entrypoint (volume-mounted) so bundle install runs on start
+    command: ["/bin/bash", "/srv/jekyll/bin/entry_point.sh"]
